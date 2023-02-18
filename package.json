@@ -1,0 +1,7 @@
+{
+  "name": "cljs-glsl-playground",
+  "version": "0.0.1",
+  "devDependencies": {
+    "shadow-cljs": "2.20.20"
+  }
+}
